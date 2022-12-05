@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Candroid Browser is a replacement web browser for Candroid. It is designed to replace the AOSP browser, but not Google Chrome. It will be based on a privacy friendly WebKit engine fork.
